@@ -13,13 +13,15 @@ The purpose of this analysis is to determine if the weather in Oahu, Hawaii is c
 
 
 **Figure 1.1**
+
 ![june_temps.png](june_temps.png) 
 
 
 **Figure 1.2**
+
 ![december_temps.png](december_temps.png) 
 
-Three key differences in OahuÕs weather between June and December are listed below. 
+Three key differences in Oahu's weather between June and December are listed below. 
 * First, the mean temperature in June is approximately four degrees higher than the mean temperature in December. 
 * Second, the standard deviation of temperatures in December is 0.49 higher than it is in June. 
 * Third, the minimum temperature in December is 56 degrees, whereas it is 64 degrees in June. 
