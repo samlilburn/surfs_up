@@ -1,6 +1,6 @@
 # Surfs Up - Weather Analysis
 
-### Analysis of June and December temperatures in Oahu, Hawaii 
+### Analysis of June and December Temperatures in Oahu, Hawaii 
 ---
 
 ## Overview
